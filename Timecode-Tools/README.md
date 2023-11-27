@@ -12,3 +12,5 @@ Included functions:
 - Splice 2 timecodes together to make one combined timecode object
 
 You will need to know some frame numbers to pull off most of these, and quite importantly, they all need to be calculated at 30FPS, regardless of the actual FPS of your timecode objects, so here's a [handy tool](https://chris.uk/timecode-tools) to help with that.
+
+There's also an excel spreadsheet in this folder which does the same thing. I should really make a little UI for it, or maybe a companion app just to make things simpler.
